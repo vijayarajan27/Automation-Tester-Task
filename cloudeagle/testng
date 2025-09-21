@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="VectorShift Automation Suite" verbose="1" parallel="false">
+    <test name="Home Page Bug Checks">
+        <classes>
+            <class name="tests.HomePageBugsTest"/>
+        </classes>
+    </test>
+</suite>

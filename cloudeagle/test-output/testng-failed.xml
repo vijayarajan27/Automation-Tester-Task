@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AutomationFrameworkSuite]">
+  <test thread-count="5" name="DashboardTests(failed)">
+    <classes>
+      <class name="com.testcloudeagle.DashboardTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="testManagedApplicationsCount"/>
+        </methods>
+      </class> <!-- com.testcloudeagle.DashboardTest -->
+    </classes>
+  </test> <!-- DashboardTests(failed) -->
+</suite> <!-- Failed suite [AutomationFrameworkSuite] -->

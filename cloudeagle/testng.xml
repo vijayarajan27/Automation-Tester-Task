@@ -1,0 +1,12 @@
+<suite name="AutomationFrameworkSuite" verbose="1">
+    <test name="LoginTests">
+        <classes>
+            <class name="com.testcloudeagle.LoginTest"/>
+        </classes>
+    </test>
+    <test name="DashboardTests">
+        <classes>
+            <class name="com.testcloudeagle.DashboardTest"/>
+        </classes>
+    </test>
+</suite>
